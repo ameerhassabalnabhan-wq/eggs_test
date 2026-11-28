@@ -41,10 +41,10 @@
       color: #f5c800;
       text-decoration: none;
     }
-/* 
+
     .brand-mark {
       font-size: 34px;
-      background: #ffffff16;
+      /* background: #ffffff16; */
       border-radius: 12px;
       padding: 7px;
       line-height: 1;
@@ -57,11 +57,11 @@
 
     .brand small {
       display: block;
-      color: #d3e4de;
+      /* color: #d3e4de; */
       font-size: 12px;
     }
     .staff {
-      color: #e2eee8;
+      /* color: #e2eee8; */
       font-size: 13px;
       display: flex;
       align-items: center;
@@ -76,11 +76,11 @@
     }
 
     .hero {
-      background: linear-gradient(150deg, #948bf39d, #240cffa7);
+      /* background: linear-gradient(150deg, #948bf39d, #240cffa7); */
       border: 4px solid #fff;
       border-radius: 13px;
       padding: 32px 5%;
-      color: #fff;
+      /* color: #fff; */
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -91,7 +91,7 @@
     .eyebrow {
       font-size: 11px;
       letter-spacing: 1.3px;
-      color: #f7ae05;
+      /* color: #f7ae05; */
       font-weight: 800;
     }
 
@@ -103,7 +103,7 @@
 
     .hero p {
       font-size: 14px;
-      color: #e1eaf8;
+      /* color: #e1eaf8; */
       margin: 0;
       line-height: 1.8;
     }
@@ -122,11 +122,11 @@
     }
 
     .stat {
-      background: #fff;
+      /* background: #fff; */
       border: 1px solid var(--line);
       border-radius: 13px;
       padding: 16px;
-      box-shadow: 0 4px 14px #183c3010;
+      /* box-shadow: 0 4px 14px #183c3010; */
     }
 
     .stat span {
@@ -137,12 +137,12 @@
 
     .stat strong {
       display: block;
-      color: #000290;
-      font-size: 28px;
+      /* color: #000290; */
+      font-size: 280px;
       margin-top: 4px;
     }
 
-    .section-head {
+ /*    .section-head {
       display: flex;
       justify-content: space-between;
       align-items: center;
