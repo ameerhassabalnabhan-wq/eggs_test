@@ -1,4 +1,4 @@
-     /* :root {
+     :root {
       --blue: linear-gradient(100deg, #0055ff, #140397);
       --blue2: linear-gradient(10deg, #2871df, #000290);
       --gold: #f3a703;
@@ -6,7 +6,7 @@
       --muted: #555;
       --line: #ecebe5;
       --bg: linear-gradient(100deg, #80fbff, #0059ff);
-      --white: #fff;ظ */
+      --white: #fff;
     }
 
    * {
